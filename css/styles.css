@@ -603,6 +603,7 @@ padding-bottom: 16px;
 
 
 }
+
 .footer-social-list {
     width: 24px;
     height: 24px;
@@ -646,6 +647,11 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 
+}
+.footer-social-icon{
+    width: 16px;
+    height: 16px;
+    fill:#f4f4fd;
 }
 .icon {
   display: inline-block;
