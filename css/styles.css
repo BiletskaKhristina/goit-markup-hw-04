@@ -596,7 +596,6 @@ padding-bottom: 16px;
     gap:16px;
     display: flex;
     flex-direction: column;
-    border-top:1000;
 }
 .footer .logo {
     display:inline-block;
@@ -650,9 +649,8 @@ letter-spacing: 0.02em;
 
 }
 .footer-social-icon{
-    width: 16px;
-    height: 16px;
-    fill:#f4f4fd;
+    width: 24px;
+    height: 24px;
 }
 .icon {
   display: inline-block;
