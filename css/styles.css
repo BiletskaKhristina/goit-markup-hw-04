@@ -213,7 +213,7 @@ a{
     max-width: 496px;
     letter-spacing: 0.02em;
     line-height: 1.07;
-    margin: 0 auto 48px;
+    margin: 0 auto;
 }
 .hero-btn {
     display: inline-block;
@@ -273,7 +273,7 @@ a{
     font-size: 20px;
     margin-bottom: 8px;
     color:#2e2f42 ;
-    font-weight: 600;
+    font-weight: 500;
 
 }
 .features-item .icon{
@@ -378,8 +378,6 @@ a{
     display: flex;
     gap: 24px;
     justify-content: center;
-    margin-top: 8px;
-    margin-bottom: 32px;
     padding: 0;
     list-style: none;
  }
@@ -401,7 +399,6 @@ line-height: 1.2;
 letter-spacing:0.02em;
 text-align: center;
 color: #2e2f42;
-margin: 8px 0 8px;
 
 }
 .team-position{
@@ -418,7 +415,7 @@ margin: 8px 0 8px;
     padding: 120px 0;
 }
 .portfolio-title{
-    font-weight: 700;
+    font-weight: 500;
 font-size: 36px;
 line-height: 1.11111;
 letter-spacing: 0.02em;
@@ -475,7 +472,7 @@ margin-bottom: 72px;
     height: 100%;
     display: flex;
     background: var(--iris);
-    color: #ffffff;
+    color: #f4f4fd;
     padding: 40px 32px;
     box-sizing: border-box;
     text-align: left;
@@ -524,7 +521,7 @@ color: #434455;
 margin: 0;
 
 }
-.features-title,
+
 .team-title,
 .portfolio-title {
     color: #2e2f42;
@@ -555,7 +552,6 @@ margin: 0;
 .portfolio-name{
     color: #2e2f42;
     font-size: 20px;
-    font-weight: 700;
     letter-spacing: 0.02em;
 
 }
@@ -614,7 +610,6 @@ padding-bottom: 16px;
 }
 .footer .logo {
     display:inline-block;
-    margin-bottom: 0;
     padding: 0;
 
 
