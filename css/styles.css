@@ -213,7 +213,7 @@ a{
     max-width: 496px;
     letter-spacing: 0.02em;
     line-height: 1.07;
-    margin: 0 auto;
+    margin-bottom: 48px;
 }
 .hero-btn {
     display: inline-block;
