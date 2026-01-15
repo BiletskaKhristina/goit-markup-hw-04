@@ -265,8 +265,6 @@ a{
 }
 
 .features-item {
-    background-color: #fff;
-    padding: 24px;
     width: calc((100% -  72px) / 4);
 }
 .features-title {
